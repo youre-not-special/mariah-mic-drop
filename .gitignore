@@ -1,0 +1,6 @@
+local/
+LEARNINGS.md
+runs.md
+context.md
+*.jsonl
+.DS_Store
